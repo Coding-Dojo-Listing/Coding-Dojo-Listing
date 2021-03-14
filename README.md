@@ -1,4 +1,4 @@
-# 1 Hour Project Challenges
+# Power Hour!
 The rules are made purposefully vague to allow for some creative freedom. These challenges are a chance for you to use your skills. Below is a list of challenges ideas.
 
 With each challenge, feel free to add as many additional features as you want within the alloted time.
